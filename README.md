@@ -1,7 +1,9 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhdqwalls.com%2Fwallpaper%2F1920x1080%2Fhacker-virus-loading&psig=AOvVaw0LCAK2QFcAOV8K7hPSwug9&ust=1692253668800000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDy-6fG4IADFQAAAAAdAAAAABAE)
 
 <h1 align="center">whassup ! Guard</h1>
-<h3 align="center">I'm cyber security from Türkiye</h3>
+<h3 align="center">I am an ethical hacker from Turkey.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guardcopyright" alt="guardcopyright" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
