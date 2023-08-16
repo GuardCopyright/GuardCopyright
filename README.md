@@ -17,3 +17,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guardcopyright&" alt="guardcopyright" /></p>
 
+![snake gif](https://github.com/GuardCopyright/GuardCopyright/blob/output/github-contribution-grid-snake.gif)
